@@ -1,0 +1,115 @@
+[[METIS4]]
+arch = "aarch64"
+git-tree-sha1 = "a9ec4531f776dc18bb53885461584e5b0295ec17"
+libc = "glibc"
+os = "linux"
+
+    [[METIS4.download]]
+    sha256 = "70990ad820323daebe41de5ed3f5259a76f3c7b2da9f61bc3c52ca260b169f57"
+    url = "https://github.com/JuliaBinaryWrappers/METIS4_jll.jl/releases/download/METIS4-v4.0.3+0/METIS4.v4.0.3.aarch64-linux-gnu.tar.gz"
+[[METIS4]]
+arch = "aarch64"
+git-tree-sha1 = "c2afa9e997e3dc68ce1433550b9dd93a747ec4de"
+libc = "musl"
+os = "linux"
+
+    [[METIS4.download]]
+    sha256 = "f9ba536933f7ab58683587cd41279171bd69031b3bfb3691d75ad866cf4cda17"
+    url = "https://github.com/JuliaBinaryWrappers/METIS4_jll.jl/releases/download/METIS4-v4.0.3+0/METIS4.v4.0.3.aarch64-linux-musl.tar.gz"
+[[METIS4]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "6d1bd1c51b71b4ca68cd4c5584e8e33d30cdc00c"
+libc = "glibc"
+os = "linux"
+
+    [[METIS4.download]]
+    sha256 = "68af79ab80079ac2df1044f35a9cbdb8ec719016b37d053e97d111fb95201366"
+    url = "https://github.com/JuliaBinaryWrappers/METIS4_jll.jl/releases/download/METIS4-v4.0.3+0/METIS4.v4.0.3.armv7l-linux-gnueabihf.tar.gz"
+[[METIS4]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a97db9b4f28d9cd7938cd24af2584814cd86c033"
+libc = "musl"
+os = "linux"
+
+    [[METIS4.download]]
+    sha256 = "b4c91a5fa22af927aebcf8e618b7f5a167f94612ba7a8a54fb03c923fc9a4c5c"
+    url = "https://github.com/JuliaBinaryWrappers/METIS4_jll.jl/releases/download/METIS4-v4.0.3+0/METIS4.v4.0.3.armv7l-linux-musleabihf.tar.gz"
+[[METIS4]]
+arch = "i686"
+git-tree-sha1 = "abc6e83336d6b3f93000622f8170ede5330c5098"
+libc = "glibc"
+os = "linux"
+
+    [[METIS4.download]]
+    sha256 = "0d184aec8cf61c7e422dd825fdb23fd8038b25eba846d9d63b186b4b147b263d"
+    url = "https://github.com/JuliaBinaryWrappers/METIS4_jll.jl/releases/download/METIS4-v4.0.3+0/METIS4.v4.0.3.i686-linux-gnu.tar.gz"
+[[METIS4]]
+arch = "i686"
+git-tree-sha1 = "1390eddd8148dd489159c4716dbae93f478bfb45"
+libc = "musl"
+os = "linux"
+
+    [[METIS4.download]]
+    sha256 = "be1369f91f3ebfa43b18af998d916aae806bb1e988c20f46265d920642847f97"
+    url = "https://github.com/JuliaBinaryWrappers/METIS4_jll.jl/releases/download/METIS4-v4.0.3+0/METIS4.v4.0.3.i686-linux-musl.tar.gz"
+[[METIS4]]
+arch = "i686"
+git-tree-sha1 = "e39331a8ebb4f807847f420968e0d55aae311cb1"
+os = "windows"
+
+    [[METIS4.download]]
+    sha256 = "533633b35e1e83fcb4e37fb193cb489e9dfc0c5af8b77cfaf1e17e6aa5a90753"
+    url = "https://github.com/JuliaBinaryWrappers/METIS4_jll.jl/releases/download/METIS4-v4.0.3+0/METIS4.v4.0.3.i686-w64-mingw32.tar.gz"
+[[METIS4]]
+arch = "powerpc64le"
+git-tree-sha1 = "10187610ef470e89bc0cb4d2804f867a37085b34"
+libc = "glibc"
+os = "linux"
+
+    [[METIS4.download]]
+    sha256 = "d4360e16e79774742e7345548e77e8babe14cf247c723b81bdb03d27cb204dac"
+    url = "https://github.com/JuliaBinaryWrappers/METIS4_jll.jl/releases/download/METIS4-v4.0.3+0/METIS4.v4.0.3.powerpc64le-linux-gnu.tar.gz"
+[[METIS4]]
+arch = "x86_64"
+git-tree-sha1 = "314131cc1517b9b7d5986cfdebd5febfc131e0d5"
+os = "macos"
+
+    [[METIS4.download]]
+    sha256 = "17319f96394143c6f5fb63813d96b97c3ebda5b59224e42ef22be9da14f791fc"
+    url = "https://github.com/JuliaBinaryWrappers/METIS4_jll.jl/releases/download/METIS4-v4.0.3+0/METIS4.v4.0.3.x86_64-apple-darwin.tar.gz"
+[[METIS4]]
+arch = "x86_64"
+git-tree-sha1 = "21426dc9da406ede1def01afaf9e86678d0f84ad"
+libc = "glibc"
+os = "linux"
+
+    [[METIS4.download]]
+    sha256 = "7fe1eab86e45bd4364c39d46e3f1a245a9e377f9a582babc99cd27372a6f3939"
+    url = "https://github.com/JuliaBinaryWrappers/METIS4_jll.jl/releases/download/METIS4-v4.0.3+0/METIS4.v4.0.3.x86_64-linux-gnu.tar.gz"
+[[METIS4]]
+arch = "x86_64"
+git-tree-sha1 = "114f886cfb734912fd7ba006b0b49d5a3ff92fa7"
+libc = "musl"
+os = "linux"
+
+    [[METIS4.download]]
+    sha256 = "173dc0d19a66408dd17f12c7dff26458d9fba6d3143a5663cfde638e4ec52360"
+    url = "https://github.com/JuliaBinaryWrappers/METIS4_jll.jl/releases/download/METIS4-v4.0.3+0/METIS4.v4.0.3.x86_64-linux-musl.tar.gz"
+[[METIS4]]
+arch = "x86_64"
+git-tree-sha1 = "09356d902d10ea6adb8fa31711d8190227752faa"
+os = "freebsd"
+
+    [[METIS4.download]]
+    sha256 = "eb0d48c7b7a53fe4d66510df2f25c3287c4bf8651cf5c11707c4064f934b3af5"
+    url = "https://github.com/JuliaBinaryWrappers/METIS4_jll.jl/releases/download/METIS4-v4.0.3+0/METIS4.v4.0.3.x86_64-unknown-freebsd.tar.gz"
+[[METIS4]]
+arch = "x86_64"
+git-tree-sha1 = "1e13d2853b661cb5c39e51cdb318dc2bfe9fa90f"
+os = "windows"
+
+    [[METIS4.download]]
+    sha256 = "e868bf113b9edcb4dfddf6d801dc81332f0c1aae0edbf250010853c2a2c84b65"
+    url = "https://github.com/JuliaBinaryWrappers/METIS4_jll.jl/releases/download/METIS4-v4.0.3+0/METIS4.v4.0.3.x86_64-w64-mingw32.tar.gz"
